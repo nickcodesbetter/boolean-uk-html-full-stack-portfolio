@@ -1,0 +1,51 @@
+* {
+  text-align: center;
+  border: box;
+}
+
+.sec1 {
+  background-color: green;
+}
+
+.sec2 {
+  background-color: lightpink;
+}
+
+.sec3 {
+  margin-left: 0px;
+}
+
+footer {
+  background-color: darkgreen;
+  text-align: left;
+}
+
+.name {
+  text-align: left;
+}
+
+.nav {
+  text-align: right;
+  text-decoration: none;
+  display: inline;
+  float: right;
+}
+
+.box {
+  border: 15px solid red;
+  width: auto;
+  margin: 20px;
+  /* display: inline; */
+  float: right;
+}
+
+p {
+  margin-left: 200px;
+  margin-right: 200px;
+  text-align: left;
+  line-height: 1.6;
+}
+
+.align-left {
+  /* text-align: left; */
+}
